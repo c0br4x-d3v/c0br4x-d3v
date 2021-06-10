@@ -10,9 +10,6 @@ I'm c0br4x , and I do content on Design and Development. I really enjoy work on 
 * 📌 QBUS
 * 💻 HTML, CSS, JS
 
-## Working
-
-* ⚙️ I’m currently working on qbus framework 
 
 ## My Stats
 

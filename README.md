@@ -17,6 +17,6 @@ I'm c0br4x , and I do content on Design and Development. I really enjoy work on 
 ## My Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=c0br4x-d3v&show_icons=true&theme=tokyonight)
-)  
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=c0br4x-d3v&theme=tokyonight)  

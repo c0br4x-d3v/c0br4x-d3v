@@ -2,14 +2,13 @@
 
 # c0br4x
 
-I do content on Design and Development. I really enjoy work on frameworks. I also enjoy ui and design in general.
+I'm c0br4x , and I do content on Design and Development. I really enjoy work on frameworks. I also enjoy ui and design in general.
 
 ## Skills:
 
-* 📌 LUA 
-* 📌 JS 
-* 📌 HTML 
-* 📌 CSS
+* 📌 ESX
+* 📌 QBUS
+* 💻 HTML, CSS, JS
 
 ## Working
 

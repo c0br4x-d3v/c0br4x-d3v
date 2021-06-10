@@ -1,6 +1,8 @@
+
+![Design and Development](https://cdn.discordapp.com/attachments/792954965668790346/852605618354257920/programmingcodeabstractt_499140.png)
+
 ### Hi there, my name is c0br4x
 #### Design and Development
-![Design and Development](https://cdn.discordapp.com/attachments/792954965668790346/852605618354257920/programmingcodeabstractt_499140.png)
 
 I do content on Design and Development. I really enjoy work on frameworks. I also enjoy ui and design in general.
 

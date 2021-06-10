@@ -17,5 +17,3 @@ Skills: LUA / JS / HTML / CSS
 )  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=c0br4x-d3v&theme=tokyonight)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0br4x-d3v&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Portfolio 👋
 
-- I love programming and to help people with their code. one of my goals to 2021 is to collaborate more with open source projects
+- I love programming and to help people with their code.
 
 <img src ="https://github-readme-stats.vercel.app/api?username=c0br4x-d3v&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 <!--

@@ -12,7 +12,10 @@ I do content on Design and Development. I really enjoy work on frameworks. I als
 * 📌 JS 
 * 📌 HTML 
 * 📌 CSS
-- ⚙️ I’m currently working on qbus framework 
+
+## Working
+
+* ⚙️ I’m currently working on qbus framework 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=c0br4x-d3v&show_icons=true&theme=tokyonight)

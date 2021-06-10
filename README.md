@@ -13,7 +13,9 @@ Skills: LUA / JS / HTML / CSS
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=c0br4x-d3v&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=c0br4x-d3v&show_icons=true&theme=tokyonight)
+)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=c0br4x-d3v)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0br4x-d3v&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

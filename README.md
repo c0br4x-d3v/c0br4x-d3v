@@ -1,5 +1,5 @@
 
-![Design and Development](https://cdn.discordapp.com/attachments/792954965668790346/852606782450171954/vsvsvs.png)
+![Design and Development](https://cdn.discordapp.com/attachments/792954965668790346/852609014160425030/Sem_titulo.png)
 
 ### Hi there, my name is c0br4x
 #### Design and Development

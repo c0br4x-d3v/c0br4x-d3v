@@ -1,17 +1,17 @@
-
 ![Design and Development](https://cdn.discordapp.com/attachments/792954965668790346/852609014160425030/Sem_titulo.png)
 
-# c0br4x
+### Hi there, I'm c0br4x
+
 ## Design and Development
 
 I do content on Design and Development. I really enjoy work on frameworks. I also enjoy ui and design in general.
 
 ## Skills:
 
-▫️ LUA 
-▫️ JS 
-▫️ HTML 
-▫️ CSS
+*▫️ LUA 
+*▫️ JS 
+*▫️ HTML 
+*▫️ CSS
 
 - 🔭 I’m currently working on qbus framework 
 

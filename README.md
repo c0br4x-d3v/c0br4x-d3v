@@ -3,7 +3,11 @@
 # c0br4x
 
 I'm c0br4x , and I do content on Design and Development. I really enjoy work on frameworks. I also enjoy ui and design in general.
-
+<div>
+  <a href="https://github.com/Barikeloo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barikeloo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0br4x-d3v&layout=compact&langs_count=7&theme=dracula)
 
 <div style="display: inline_block"><br>

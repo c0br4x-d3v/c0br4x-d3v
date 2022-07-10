@@ -5,7 +5,7 @@
 I'm c0br4x , and I do content on Design and Development. I really enjoy work on frameworks. I also enjoy ui and design in general.
 
 <div>
-  <a href="https://github.com/c0br4x">
+  <a href="https://github.com/c0br4x-d3v">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0br4x&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  

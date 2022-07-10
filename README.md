@@ -17,3 +17,6 @@ I'm c0br4x , and I do content on Design and Development. I really enjoy work on 
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=c0br4x-d3v&theme=tokyonight)  
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 

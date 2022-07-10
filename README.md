@@ -4,7 +4,7 @@
 
 I'm c0br4x , and I do content on Design and Development. I really enjoy work on frameworks. I also enjoy ui and design in general.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0br4x-d3v&layout=compact&langs_count=7&theme=dracula)](https://github.com/c0br4x-d3v/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0br4x-d3v&layout=compact&langs_count=7&theme=dracula)](https://github.com/c0br4x-d3v)
  
 <div style="display: inline_block"><br>
  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />   
@@ -24,7 +24,6 @@ I'm c0br4x , and I do content on Design and Development. I really enjoy work on 
 ## My Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=c0br4x-d3v&show_icons=true&theme=tokyonight)
-
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=c0br4x-d3v&theme=tokyonight)  
 

@@ -6,7 +6,7 @@ I'm c0br4x , and I do content on Design and Development. I really enjoy work on 
 
 <div>
   <a href="https://github.com/c0br4x-d3v">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0br4x-d3vx&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0br4x-d3v&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 <div style="display: inline_block"><br>

@@ -3,7 +3,9 @@
 # c0br4x
 
 I'm c0br4x , and I do content on Design and Development. I really enjoy work on frameworks. I also enjoy ui and design in general.
-
+ 
+## Skills: 
+ 
 <div>
   <a href="https://github.com/c0br4x-d3v">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0br4x-d3v&layout=compact&langs_count=7&theme=dracula"/>
@@ -17,12 +19,6 @@ I'm c0br4x , and I do content on Design and Development. I really enjoy work on 
  <img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
  <br>
 </div>
- 
-## Skills: 
- 
-* 📌 ESX
-* 📌 QBUS
-* 💻 HTML, CSS, JS
 
 ## My Stats
 

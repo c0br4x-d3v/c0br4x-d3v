@@ -2,7 +2,7 @@
 
 # c0br4x
 
-I'm c0br4x , and I do content on Design and Development. I really enjoy work on frameworks. I also enjoy ui and design in general.
+I'm c0br4x , and I do content on Design and Development. I really enjoy work on new projects and crazy ideas in general.
  
 ## Skills: 
  
